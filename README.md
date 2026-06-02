@@ -1,7 +1,3 @@
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuedesSilva&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGuedesSilva&layout=compact)
-
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
@@ -103,6 +99,12 @@ Laboratório de Cybersecurity para estudos de:
 
 LinkedIn:
 (https://www.linkedin.com/in/alex-guedes-silva)
+
+## 📊 GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuedesSilva&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGuedesSilva&layout=compact)
 
 GitHub:
 https://github.com/AlexGuedesSilva

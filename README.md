@@ -102,9 +102,9 @@ LinkedIn:
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuedesSilva&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlexGuedesSilva&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGuedesSilva&layout=compact)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexGuedesSilva&theme=github_dark)
 
 GitHub:
 https://github.com/AlexGuedesSilva

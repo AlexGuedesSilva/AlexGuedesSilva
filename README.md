@@ -106,5 +106,4 @@ LinkedIn:
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexGuedesSilva&theme=github_dark)
 
-GitHub:
-https://github.com/AlexGuedesSilva
+📌 LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alex-guedes-silva/)

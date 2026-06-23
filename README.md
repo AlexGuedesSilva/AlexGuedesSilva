@@ -5,7 +5,7 @@
 
 # Olá, eu sou Alex Guedes 👋
 
-Backend Developer | Java | Spring Boot | Cybersecurity
+Backend Developer | Java | Spring Boot | DDD | Cybersecurity
 
 Sou formado em Ciência da Computação, pós-graduado em Tecnologia Java e atualmente me especializando em Cybersecurity e Defesa contra Ameaças.
 

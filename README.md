@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Read-red)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ready-red)
 
 # Olá, eu sou Alex Guedes 👋
 

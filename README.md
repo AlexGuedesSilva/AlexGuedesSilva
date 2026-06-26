@@ -105,5 +105,3 @@ LinkedIn:
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlexGuedesSilva&theme=dark)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexGuedesSilva&theme=github_dark)
-
-📌 LinkedIn: [https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alex-guedes-silva/)

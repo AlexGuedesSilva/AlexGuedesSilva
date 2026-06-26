@@ -13,7 +13,7 @@ Tenho direcionado meus estudos e projetos para o desenvolvimento backend com Jav
 
 Meu objetivo é evoluir como desenvolvedor backend, construindo projetos práticos que conectam boas práticas de arquitetura, segurança, autenticação, autorização e cloud computing.
 
-##🚀 Áreas de Interesse
+## 🚀 Áreas de Interesse
 
 - Desenvolvimento Backend com Java
 - Spring Boot e Spring Security
@@ -31,7 +31,7 @@ Meu objetivo é evoluir como desenvolvedor backend, construindo projetos prátic
 
 ---
 
-##🧠 Atualmente estudando
+## 🧠 Atualmente estudando
 
 - Domain-Driven Design na prática
 - Clean Architecture aplicada a projetos Java
@@ -119,7 +119,7 @@ Meu objetivo é evoluir como desenvolvedor backend, construindo projetos prátic
 
 ## 📌 Projetos em Destaque
 
-###🔐 IAM Platform
+### 🔐 IAM Platform
 
 Projeto de estudos focado em Identity & Access Management, desenvolvido com Java, Spring Boot, DDD e Clean Architecture.
 
@@ -137,7 +137,7 @@ Principais temas estudados no projeto:
 - RBAC
 - Segurança de APIs
 
-###🛡️ Spring Security Architecture Study
+### 🛡️ Spring Security Architecture Study
 
 Projeto dedicado ao estudo interno do Spring Security, com foco em entender o fluxo de autenticação e autorização.
 
@@ -173,7 +173,7 @@ Principais temas estudados:
 
 ---
 
-🎯 Objetivo
+### 🎯 Objetivo
 
 Atualmente estou em evolução para atuar como Desenvolvedor Backend Java, construindo uma base sólida em:
 

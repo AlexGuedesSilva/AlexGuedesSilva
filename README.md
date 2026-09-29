@@ -5,7 +5,7 @@
 
 # Olá, eu sou Alex Guedes 👋
 
-Backend Developer em formação | Java | Spring Boot | DDD | Clean Architecture | IAM | Cybersecurity
+Backend Developer | Java | Python | Spring Boot | DDD | Clean Architecture | IAM | Cybersecurity | SkyOne | Atutomatização
 
 Sou formado em Ciência da Computação, pós-graduado em Tecnologia Java e também concluí minha pós-graduação em Cybersecurity e Defesa contra Ameaças.
 
